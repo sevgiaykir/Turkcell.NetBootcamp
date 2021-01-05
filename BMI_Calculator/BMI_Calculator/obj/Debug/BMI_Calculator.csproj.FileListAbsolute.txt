@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.exe.config
+C:\Users\asus\source\repos\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.exe
+C:\Users\asus\source\repos\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.pdb
+C:\Users\asus\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.exe
+C:\Users\asus\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.pdb
