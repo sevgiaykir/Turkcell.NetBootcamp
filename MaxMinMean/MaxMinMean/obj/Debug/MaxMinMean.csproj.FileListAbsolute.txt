@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\MaxMinMean\MaxMinMean\bin\Debug\MaxMinMean.exe.config
+C:\Users\asus\source\repos\MaxMinMean\MaxMinMean\bin\Debug\MaxMinMean.exe
+C:\Users\asus\source\repos\MaxMinMean\MaxMinMean\bin\Debug\MaxMinMean.pdb
+C:\Users\asus\source\repos\MaxMinMean\MaxMinMean\obj\Debug\MaxMinMean.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\MaxMinMean\MaxMinMean\obj\Debug\MaxMinMean.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\MaxMinMean\MaxMinMean\obj\Debug\MaxMinMean.exe
+C:\Users\asus\source\repos\MaxMinMean\MaxMinMean\obj\Debug\MaxMinMean.pdb
