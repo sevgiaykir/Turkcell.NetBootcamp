@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\SayiBulmacaOyunu\SayiBulmacaOyunu\bin\Debug\SayiBulmacaOyunu.exe.config
+C:\Users\asus\source\repos\SayiBulmacaOyunu\SayiBulmacaOyunu\bin\Debug\SayiBulmacaOyunu.exe
+C:\Users\asus\source\repos\SayiBulmacaOyunu\SayiBulmacaOyunu\bin\Debug\SayiBulmacaOyunu.pdb
+C:\Users\asus\source\repos\SayiBulmacaOyunu\SayiBulmacaOyunu\obj\Debug\SayiBulmacaOyunu.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\SayiBulmacaOyunu\SayiBulmacaOyunu\obj\Debug\SayiBulmacaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\SayiBulmacaOyunu\SayiBulmacaOyunu\obj\Debug\SayiBulmacaOyunu.exe
+C:\Users\asus\source\repos\SayiBulmacaOyunu\SayiBulmacaOyunu\obj\Debug\SayiBulmacaOyunu.pdb
