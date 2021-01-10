@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\BelirliAraliktakiAsalSayilar\BelirliAraliktakiAsalSayilar\bin\Debug\BelirliAraliktakiAsalSayilar.exe.config
+C:\Users\asus\source\repos\BelirliAraliktakiAsalSayilar\BelirliAraliktakiAsalSayilar\bin\Debug\BelirliAraliktakiAsalSayilar.exe
+C:\Users\asus\source\repos\BelirliAraliktakiAsalSayilar\BelirliAraliktakiAsalSayilar\bin\Debug\BelirliAraliktakiAsalSayilar.pdb
+C:\Users\asus\source\repos\BelirliAraliktakiAsalSayilar\BelirliAraliktakiAsalSayilar\obj\Debug\BelirliAraliktakiAsalSayilar.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\BelirliAraliktakiAsalSayilar\BelirliAraliktakiAsalSayilar\obj\Debug\BelirliAraliktakiAsalSayilar.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BelirliAraliktakiAsalSayilar\BelirliAraliktakiAsalSayilar\obj\Debug\BelirliAraliktakiAsalSayilar.exe
+C:\Users\asus\source\repos\BelirliAraliktakiAsalSayilar\BelirliAraliktakiAsalSayilar\obj\Debug\BelirliAraliktakiAsalSayilar.pdb
