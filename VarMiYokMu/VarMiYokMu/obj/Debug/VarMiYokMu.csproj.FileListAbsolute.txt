@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\VarMiYokMu\VarMiYokMu\bin\Debug\VarMiYokMu.exe.config
+C:\Users\asus\source\repos\VarMiYokMu\VarMiYokMu\bin\Debug\VarMiYokMu.exe
+C:\Users\asus\source\repos\VarMiYokMu\VarMiYokMu\bin\Debug\VarMiYokMu.pdb
+C:\Users\asus\source\repos\VarMiYokMu\VarMiYokMu\obj\Debug\VarMiYokMu.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\VarMiYokMu\VarMiYokMu\obj\Debug\VarMiYokMu.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\VarMiYokMu\VarMiYokMu\obj\Debug\VarMiYokMu.exe
+C:\Users\asus\source\repos\VarMiYokMu\VarMiYokMu\obj\Debug\VarMiYokMu.pdb
