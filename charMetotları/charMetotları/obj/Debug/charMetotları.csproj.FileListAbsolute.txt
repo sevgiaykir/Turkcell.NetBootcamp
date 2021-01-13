@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\charMetotları\charMetotları\bin\Debug\charMetotları.exe.config
+C:\Users\asus\source\repos\charMetotları\charMetotları\bin\Debug\charMetotları.exe
+C:\Users\asus\source\repos\charMetotları\charMetotları\bin\Debug\charMetotları.pdb
+C:\Users\asus\source\repos\charMetotları\charMetotları\obj\Debug\charMetotları.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\charMetotları\charMetotları\obj\Debug\charMetotları.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\charMetotları\charMetotları\obj\Debug\charMetotları.exe
+C:\Users\asus\source\repos\charMetotları\charMetotları\obj\Debug\charMetotları.pdb
