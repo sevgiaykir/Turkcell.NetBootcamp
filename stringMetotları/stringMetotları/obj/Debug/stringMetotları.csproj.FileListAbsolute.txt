@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\stringMetotları\stringMetotları\bin\Debug\stringMetotları.exe.config
+C:\Users\asus\source\repos\stringMetotları\stringMetotları\bin\Debug\stringMetotları.exe
+C:\Users\asus\source\repos\stringMetotları\stringMetotları\bin\Debug\stringMetotları.pdb
+C:\Users\asus\source\repos\stringMetotları\stringMetotları\obj\Debug\stringMetotları.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\stringMetotları\stringMetotları\obj\Debug\stringMetotları.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\stringMetotları\stringMetotları\obj\Debug\stringMetotları.exe
+C:\Users\asus\source\repos\stringMetotları\stringMetotları\obj\Debug\stringMetotları.pdb
