@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\asus\source\repos\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
